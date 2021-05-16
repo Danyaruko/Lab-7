@@ -18,8 +18,8 @@ Create command line terminal program with Java and write a class from laboratory
 
   <h2>How to start</h2>
    The program was written on Java 11
-   1. Download a zip version of repository <br>
-   2. Unpack it to any location convenient for you<br>
-   3. Through command line open the repository<br>
-   5. Input command javac rally/App.java<br>
-   6. Input command java rally/App<br>
+    1. Download a zip version of repository <br>
+    2. Unpack it to any location convenient for you<br>
+    3. Through command line open the repository<br>
+    5. Input command javac rally/App.java<br>
+    6. Input command java rally/App<br>
